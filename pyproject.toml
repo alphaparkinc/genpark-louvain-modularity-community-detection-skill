@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-louvain-modularity-community-detection-skill"
+version = "1.0.0"
+description = "Louvain method for greedy modularity maximization community detection on weighted graphs"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
