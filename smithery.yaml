@@ -1,0 +1,6 @@
+name: genpark-louvain-modularity-community-detection-skill
+version: 1.0.0
+description: Louvain method for greedy modularity maximization community detection on weighted graphs
+command: python
+args:
+  - mcp_server.py
